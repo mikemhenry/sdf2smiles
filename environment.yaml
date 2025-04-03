@@ -1,0 +1,5 @@
+name: sdf2smiles
+channels:
+  - conda-forge
+dependencies:
+  - openff-toolkit
