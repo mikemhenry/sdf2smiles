@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# only allow
+!environment.yaml
+!convert.py
